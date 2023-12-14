@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace WindowsFormsApp2.Models
 {
     internal class user
-    {
+    {  public int id{get;set;}
     }
 }
