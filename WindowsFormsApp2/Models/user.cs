@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 namespace WindowsFormsApp2.Models
 {
     internal class user
+
     {public int Id { get; set; }
+    
+        public int MSSV {  get; set; }
+    
     }
 }
